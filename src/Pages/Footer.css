@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f8f9fa;
+  padding: 20px 10px;
+}
+.footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 0;
+  margin: 10px auto;
+}
+.socialIcon {
+  width: 25px;
+  height: 25px;
+  margin: 0 10px;
+  color: #383838;
+}
+.footer span {
+  font-weight: bold;
+}

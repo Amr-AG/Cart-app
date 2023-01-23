@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+  #navbarScroll .NavLink {
+    margin: 12px 10px !important;
+    text-align: start !important;
+  }
+}

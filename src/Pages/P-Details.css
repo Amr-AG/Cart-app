@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+  .card {
+    flex-direction: column !important;
+  }
+  .card .image {
+    width: 80% !important;
+    padding: 10px !important;
+  }
+  .card-body {
+    margin: auto !important;
+    text-align: center;
+  }
+}
